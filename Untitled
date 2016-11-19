@@ -1,0 +1,5 @@
+scp common/macros.php op:/usr/local/orderpigeon/common/
+scp web/css/maintenance.css  op:/usr/local/orderpigeon/web/css/
+scp web/index.php op:/usr/local/orderpigeon/web/
+scp web/login.php op:/usr/local/orderpigeon/web/
+scp web/maintenance.html op:/usr/local/orderpigeon/web/
